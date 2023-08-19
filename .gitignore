@@ -1,0 +1,66 @@
+# Node.js dependencies
+node_modules/
+
+# Next.js build artifacts
+.next/
+
+# Output of the npm package manager
+npm-debug.log
+yarn-error.log
+
+# Environment variables
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# IDE and Editor files
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+*.iml
+
+# Logs
+logs/
+*.log
+
+# Compiled binary files
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.ico
+*.eot
+*.otf
+*.woff
+*.woff2
+*.svg
+*.ttf
+*.mp4
+*.webm
+*.ogg
+*.mp3
+*.wav
+*.flac
+*.aac
+
+# Build files
+out/
+
+# Cache and temporary files
+.nyc_output/
+coverage/
+*.swp
+*.d.ts
+*.d.ts.map
+*.tmp
+*.json.map
+*.tgz
+*.zip
+
+# OS generated files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Icon?
